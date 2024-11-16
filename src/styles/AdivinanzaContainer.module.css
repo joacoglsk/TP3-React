@@ -1,0 +1,10 @@
+.container {
+    margin-top: 80px;
+    padding: 16px;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    gap: 16px; 
+}
+
+  

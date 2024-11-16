@@ -1,0 +1,10 @@
+
+.footers {
+  background-color: rgb(109, 24, 24);;
+  color: white;
+  padding: 1em;
+  text-align: center;
+  width: 100vw; 
+  position: relative;
+  left: 0;
+}

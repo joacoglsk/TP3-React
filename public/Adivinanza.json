@@ -1,0 +1,8 @@
+[
+  { "numero": 1, "pregunta": "Si me nombrás, desaparezco. Decime rápido, ¿quién soy?", "respuesta": "El silencio" },
+  { "numero": 2, "pregunta": "Subo llena y bajo vacía, si no me apurás, te dejo la comida fría.", "respuesta": "La cuchara" },
+  { "numero": 3, "pregunta": "Todos los días la gente me pisa, pero sigo siendo fuerte. ¿Qué soy?", "respuesta": "La vereda" },
+  { "numero": 4, "pregunta": "Sin ser marinero tengo barco, sin ser pirata, tengo un tesoro. A ver si adivinás qué soy.", "respuesta": "El mapa" },
+  { "numero": 5, "pregunta": "Me mirás y te miro, me ves y te veo. Siempre reflejo lo que hacés. ¿Quién soy?", "respuesta": "El espejo" },
+  { "numero": 6, "pregunta": "Tengo agujas pero no sé coser, doy vueltas y vueltas y nunca me puedo detener. ¿Qué soy?", "respuesta": "El reloj" }
+]
